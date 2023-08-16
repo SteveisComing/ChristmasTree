@@ -1,0 +1,11 @@
+C:\Users\emile\source\ISPAN\Homework\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+C:\Users\emile\source\ISPAN\Homework\ChristmasTree\bin\Debug\ChristmasTree.exe
+C:\Users\emile\source\ISPAN\Homework\ChristmasTree\bin\Debug\ChristmasTree.pdb
+C:\Users\emile\source\ISPAN\Homework\ChristmasTree\obj\Debug\ChristmasTree.csproj.AssemblyReference.cache
+C:\Users\emile\source\ISPAN\Homework\ChristmasTree\obj\Debug\ChristmasTree.csproj.SuggestedBindingRedirects.cache
+C:\Users\emile\source\ISPAN\Homework\ChristmasTree\obj\Debug\ChristmasTree.Form1.resources
+C:\Users\emile\source\ISPAN\Homework\ChristmasTree\obj\Debug\ChristmasTree.Properties.Resources.resources
+C:\Users\emile\source\ISPAN\Homework\ChristmasTree\obj\Debug\ChristmasTree.csproj.GenerateResource.cache
+C:\Users\emile\source\ISPAN\Homework\ChristmasTree\obj\Debug\ChristmasTree.csproj.CoreCompileInputs.cache
+C:\Users\emile\source\ISPAN\Homework\ChristmasTree\obj\Debug\ChristmasTree.exe
+C:\Users\emile\source\ISPAN\Homework\ChristmasTree\obj\Debug\ChristmasTree.pdb
